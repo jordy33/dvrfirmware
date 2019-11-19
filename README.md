@@ -3,6 +3,7 @@
 * Open doc file for help
 
 Goal:
+
 ![](/images/result.jpg?raw=true)
 
 * Serial port connection:
